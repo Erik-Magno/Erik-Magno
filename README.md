@@ -55,7 +55,7 @@
 
 <div  class="snake"  align="center">
 
-![Snake animation](https://github.com/Erik-Magno/Erik-Magno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Erik-Magno/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 <p  class="Profile Views Badge"  align="center"> <img  src="https://komarev.com/ghpvc/?username=Erik-Magno&label=Profile%20views&color=bb9af7&style=for-the-badge"  alt="Erik-Magno" />
